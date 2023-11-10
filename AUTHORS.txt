@@ -1,0 +1,11 @@
+DeepMacOS Icon Theme is created merging Adwaita, Deepin and BigSur Icon Theme.
+
+
+DeepMacOS: mirabellalorenzo <mirabellalorenzo03@gmail.com> - (https://github.com/mirabellalorenzo/DeepMacOS-IconTheme)
+
+
+Adwaita Gnome: Original Fedora Icon Theme (/usr/share/icons)
+
+Uos Deepin Icon Theme: zayronxio <zayronxio@gmail.com> - (https://github.com/zayronxio/Uos-fulldistro-icons)
+
+BigSur: yeyushengfan258 <yeyushengfan258@outlook.com> - (https://github.com//yeyushengfan258/BigSur-icon-theme)
